@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Downloads\\Tool Trung Anh\\Server Oauth2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2CA5EA-0031-4B66-95FD-A376AE966C01}|Server Oauth2\\Server Oauth2.csproj|C:\\Users\\admin\\Downloads\\Tool Trung Anh\\Server Oauth2\\server oauth2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2CA5EA-0031-4B66-95FD-A376AE966C01}|Server Oauth2\\Server Oauth2.csproj|solutionrelative:server oauth2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2CA5EA-0031-4B66-95FD-A376AE966C01}|Server Oauth2\\Server Oauth2.csproj|c:\\users\\admin\\downloads\\tool trung anh\\server oauth2\\server oauth2\\readmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2CA5EA-0031-4B66-95FD-A376AE966C01}|Server Oauth2\\Server Oauth2.csproj|solutionrelative:server oauth2\\readmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2CA5EA-0031-4B66-95FD-A376AE966C01}|Server Oauth2\\Server Oauth2.csproj|C:\\Users\\admin\\Downloads\\Tool Trung Anh\\Server Oauth2\\server oauth2\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2CA5EA-0031-4B66-95FD-A376AE966C01}|Server Oauth2\\Server Oauth2.csproj|solutionrelative:server oauth2\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2CA5EA-0031-4B66-95FD-A376AE966C01}|Server Oauth2\\Server Oauth2.csproj|C:\\Users\\admin\\Downloads\\Tool Trung Anh\\Server Oauth2\\server oauth2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B2CA5EA-0031-4B66-95FD-A376AE966C01}|Server Oauth2\\Server Oauth2.csproj|solutionrelative:server oauth2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadMail.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Tool Trung Anh\\Server Oauth2\\Server Oauth2\\ReadMail.cs",
+              "RelativeDocumentMoniker": "Server Oauth2\\ReadMail.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Tool Trung Anh\\Server Oauth2\\Server Oauth2\\ReadMail.cs",
+              "RelativeToolTip": "Server Oauth2\\ReadMail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:36:41.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Tool Trung Anh\\Server Oauth2\\Server Oauth2\\Data.cs",
+              "RelativeDocumentMoniker": "Server Oauth2\\Data.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Tool Trung Anh\\Server Oauth2\\Server Oauth2\\Data.cs",
+              "RelativeToolTip": "Server Oauth2\\Data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:43:30.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Tool Trung Anh\\Server Oauth2\\Server Oauth2\\Form1.cs",
+              "RelativeDocumentMoniker": "Server Oauth2\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Tool Trung Anh\\Server Oauth2\\Server Oauth2\\Form1.cs [Design]",
+              "RelativeToolTip": "Server Oauth2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:25:08.351Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Tool Trung Anh\\Server Oauth2\\Server Oauth2\\Form1.cs",
+              "RelativeDocumentMoniker": "Server Oauth2\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Tool Trung Anh\\Server Oauth2\\Server Oauth2\\Form1.cs",
+              "RelativeToolTip": "Server Oauth2\\Form1.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAI0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:25:07.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

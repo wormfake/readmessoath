@@ -1,0 +1,88 @@
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\HtmlAgilityPack.dll
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\Leaf.xNet.dll
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\MailKit.dll
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\MimeKit.dll
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\Newtonsoft.Json.dll
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\SimpleHTTP.dll
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\System.Buffers.dll
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\System.Formats.Asn1.dll
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\System.Memory.dll
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\System.Numerics.Vectors.dll
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\System.ValueTuple.dll
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\HtmlAgilityPack.pdb
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\HtmlAgilityPack.xml
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\Leaf.xNet.xml
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\MailKit.pdb
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\MailKit.xml
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\MailKit.dll.config
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\MimeKit.pdb
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\MimeKit.xml
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\MimeKit.dll.config
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\Newtonsoft.Json.xml
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\SimpleHTTP.xml
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\System.Buffers.xml
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\System.Formats.Asn1.xml
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\System.Memory.xml
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\System.Numerics.Vectors.xml
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\System.ValueTuple.xml
+D:\Coder\Server Oauth2\Server Oauth2\obj\Debug\Server Oauth2.csproj.AssemblyReference.cache
+D:\Coder\Server Oauth2\Server Oauth2\obj\Debug\Read_Hotmail_Outlook.Form1.resources
+D:\Coder\Server Oauth2\Server Oauth2\obj\Debug\Read_Hotmail_Outlook.Properties.Resources.resources
+D:\Coder\Server Oauth2\Server Oauth2\obj\Debug\Server Oauth2.csproj.GenerateResource.cache
+D:\Coder\Server Oauth2\Server Oauth2\obj\Debug\Server Oauth2.csproj.CoreCompileInputs.cache
+D:\Coder\Server Oauth2\Server Oauth2\obj\Debug\Server O.246477E8.Up2Date
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\Server Oauth2.exe.config
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\Server Oauth2.exe
+D:\Coder\Server Oauth2\Server Oauth2\bin\Debug\Server Oauth2.pdb
+D:\Coder\Server Oauth2\Server Oauth2\obj\Debug\Server Oauth2.exe
+D:\Coder\Server Oauth2\Server Oauth2\obj\Debug\Server Oauth2.pdb
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\Server Oauth2.exe.config
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\Server Oauth2.exe
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\Server Oauth2.pdb
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\Leaf.xNet.dll
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\MailKit.dll
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\MimeKit.dll
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\System.Buffers.dll
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\System.Formats.Asn1.dll
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\System.Memory.dll
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\System.ValueTuple.dll
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\Leaf.xNet.xml
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\MailKit.pdb
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\MailKit.xml
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\MailKit.dll.config
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\MimeKit.pdb
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\MimeKit.xml
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\MimeKit.dll.config
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\SimpleHTTP.xml
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\System.Buffers.xml
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\System.Formats.Asn1.xml
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\System.Memory.xml
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\bin\Debug\System.ValueTuple.xml
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\obj\Debug\Server Oauth2.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\obj\Debug\Server Oauth2.exe.config
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\obj\Debug\Read_Hotmail_Outlook.Form1.resources
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\obj\Debug\Read_Hotmail_Outlook.Properties.Resources.resources
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\obj\Debug\Server Oauth2.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\obj\Debug\Server Oauth2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\obj\Debug\Server O.246477E8.Up2Date
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\obj\Debug\Server Oauth2.exe
+C:\Users\admin\Downloads\Tool Trung Anh\Server Oauth2\Server Oauth2\obj\Debug\Server Oauth2.pdb
